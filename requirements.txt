@@ -1,0 +1,1 @@
+proto-suspension>=5.2.0
